@@ -1,0 +1,24 @@
+.container {
+    background-color: rgb(37, 27, 59);
+    height: 100vh;
+    width: 60%;
+  
+ 
+
+
+}
+.medal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.header{
+    background-color: black;
+    height: 40px;
+    font-size: 30px;
+    font-weight: 800;
+
+}
